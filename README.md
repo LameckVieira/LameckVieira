@@ -1,6 +1,5 @@
-### Hi there 👋
-## Olá 👋 ! Eu sou Lameck Vieira Barbosa </br>
-Sou aluno do curso técnico em Desenvolvimento de Sistemas 💻 na instituição SENAI.
+## Olá 👋! Eu sou Lameck Vieira Barbosa </br>
+Sou aluno do curso técnico em Desenvolvimento de Sistemas 💻 na instituição SENAI e FATEC-SP.
 #   
  <div>
   <a href="https://github.com/LameckVieira">
