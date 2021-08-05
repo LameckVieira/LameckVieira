@@ -1,5 +1,5 @@
 ## Olá 👋! Eu sou Lameck Vieira Barbosa </br>
-Sou aluno do curso técnico em Desenvolvimento de Sistemas 💻 na instituição SENAI e FATEC-SP.
+Sou aluno do curso técnico em Desenvolvimento de Sistemas 💻 na instituição SENAI e Analista de Sistemas na FATEC-SP.
 #   
  <div>
   <a href="https://github.com/LameckVieira">
