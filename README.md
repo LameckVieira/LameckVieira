@@ -18,6 +18,8 @@ Sou aluno do curso técnico em Desenvolvimento de Sistemas 💻 na instituição
 <div>
 
   <a href="https://www.linkedin.com/in/lameck-vieira-barbosa-562419209/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+ <a href = "mailto: lameck.v.barbosa@gmail.com"><img align="center" src="https://www.vectorlogo.zone/logos/gmail/gmail-ar21.svg" height="70"  />
+
  
   ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
  
